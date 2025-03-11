@@ -1,4 +1,4 @@
-# STUDIO GURU(GURU Company)
+# STUDIO-GURU@GURU Company)
 ## 웹툰·웹소설로 앱 성과를 높이세요
 앱이나 웹을 운영하고 계세요?
 그렇다면 보물섬 솔루션을 도입해서 유저 인게이지먼트를 개선하세요. 아무런 비용 없이 유저들에게 웹툰·웹소설 서비스를 제공할 수 있습니다. 
@@ -16,7 +16,14 @@
 - 100개 이상의 기업에 SDK를 제공한 레퍼런스
 - 업계 최고 수준의 프론트·백엔드 보안 기술
 - AI 기반의 작품 추천 및 스마트 등록 알고리즘
-# TreasureIsland SDK
+# TreasureIslandX SDK
 Android & iOS 플랫폼을 지원하고 있습니다.
 ## 1. ANDROID
 ## 2. iOS
+## 3. ReactNative-Plugin
+## 4. Flutter-Plugin
+## 5. Unity-Pakage
+# TreasureIslandX Emaple
+## TextToSearch
+### ANDROID
+### iOS
