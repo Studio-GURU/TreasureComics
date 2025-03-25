@@ -30,5 +30,5 @@
 ### Flutter-Plugin
 ### Unity-Pakage
 ## TextToSearch
-### ANDROID
-### iOS
+### [ANDROID](https://github.com/Studio-GURU/TreasureIslandX-Mockup-AOS-TTS)
+### [iOS](https://github.com/Studio-GURU/TreasureIslandX-Mockup-iOS-TTS)
