@@ -34,5 +34,5 @@
 ### Unity-Pakage
 
 ## TextToSearch
-### [ANDROID](https://github.com/Studio-GURU/TreasureIslandX-Mockup-AOS-TTS)
-### [iOS](https://github.com/Studio-GURU/TreasureIslandX-Mockup-iOS-TTS)
+### [ANDROID](https://github.com/Studio-GURU/TreasureComics-Mockup-iOS-TTS)
+### [iOS](https://github.com/Studio-GURU/TreasureComics-Mockup-iOS-TTS)
